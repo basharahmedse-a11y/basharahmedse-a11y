@@ -46,11 +46,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🎓 [**Student Guide PK**](https://github.com/basharahmedse-a11y/StudentGuidePK) | Full-stack platform helping international students navigate life in Pakistan — forums, live chat, communities, tourism guide & more | Flask · Bootstrap 5 · SQLite · JavaScript |
 
 ---
 
